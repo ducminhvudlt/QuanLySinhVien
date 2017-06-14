@@ -1,0 +1,707 @@
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\bin\Debug\QLSV1.exe
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\bin\Debug\QLSV1.pdb
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.exe
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.pdb
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\bin\Debug\QLSV1.exe.config
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+D:\Visual Studio 2010\Code C#\database\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Data.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ducmi\Downloads\Compressed\QLSV1_3\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Data.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\httt\Desktop\Project Database\QLSV1_3\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\System.Data.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\System.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\office.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\bin\Debug\office.xml
+C:\Users\ducmi\Downloads\Compressed\QLSV_19_05\QLSV1\QLSV1\obj\x86\Debug\QLSV1.UCTroGiup.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\System.Data.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\System.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\office.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\bin\Debug\office.xml
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCTroGiup.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_ducdepzai\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\System.Data.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\System.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\office.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\bin\Debug\office.xml
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCTroGiup.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_22_5\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\System.Data.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\System.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\office.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\bin\Debug\office.xml
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCTroGiup.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCQuanLyDiem.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.RPTruyXuatBangDiem.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.UCHocPhi.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.RPDanhSachHocPhi.resources
+C:\Users\httt\Desktop\Project Database\QLSINHVIEN_22_5_ver1\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienDanToc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\System.Data.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\System.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\office.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\bin\Debug\office.xml
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienDanToc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.RPDanhSachHocPhi.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.RPTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCHocPhi.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCLopTinChi.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCQuanLyDiem.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCTroGiup.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\ducmi\Downloads\Compressed\QLSINHVIEN_10_6\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\System.Data.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\System.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\office.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\bin\Debug\office.xml
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienDanToc.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.RPDanhSachHocPhi.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.RPTruyXuatBangDiem.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCHocPhi.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCLopTinChi.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCQuanLyDiem.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCTroGiup.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCThongKeTonGiao.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienTonGiao.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCKetQuaXuLyHocTap.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmSettingCanhCaoHocTap.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachCanhCaoHocTap.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmThemSVVaoLop.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCThongTinChuongTrinh.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.UCSinhVienXuatSac.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmDanhSachSVXuatSac.resources
+C:\Users\httt\Desktop\Project Database\10_6\QLSV1\obj\x86\Debug\QLSV1.frmRPSVXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Data.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\office.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\office.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmRPSVXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachCanhCaoHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmThemSVVaoLop.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmSettingCanhCaoHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.RPDanhSachHocPhi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmDanhSachSVXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienDanToc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienTonGiao.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.RPTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCHocPhi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCKetQuaXuLyHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCLopTinChi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCQuanLyDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCSinhVienXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCThongKeTonGiao.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCThongTinChuongTrinh.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPDanhSachSVXuatSac.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPCanhCaoSVHocTap.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPDanhSachHocBongPhanTram.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPDanhSachHocBong.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPDiemSinhVien.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPHocPhi.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPSinhVienDanToc.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPSinhVienTonGiao.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPDanhSachSVXuatSac.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPCanhCaoSVHocTap.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPDanhSachHocBongPhanTram.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPDanhSachHocBong.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPDiemSinhVien.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPHocPhi.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPSinhVienDanToc.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\RPSinhVienTonGiao.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\FlashControlV71.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Configuration.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Web.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\System.Web.Services.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\QLSV1\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPDanhSachSVXuatSac.rpt
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPCanhCaoSVHocTap.rpt
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPDanhSachHocBongPhanTram.rpt
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPDanhSachHocBong.rpt
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPDiemSinhVien.rpt
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPHocPhi.rpt
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPSinhVienDanToc.rpt
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPSinhVienTonGiao.rpt
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPDanhSachSVXuatSac.cs
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPCanhCaoSVHocTap.cs
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPDanhSachHocBongPhanTram.cs
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPDanhSachHocBong.cs
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPDiemSinhVien.cs
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPHocPhi.cs
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPSinhVienDanToc.cs
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\RPSinhVienTonGiao.cs
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\FlashControlV71.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Configuration.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Data.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Web.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Web.Services.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\office.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\bin\Debug\office.xml
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmRPSVXuatSac.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachCanhCaoHocTap.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmThemSVVaoLop.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmSettingCanhCaoHocTap.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.RPDanhSachHocPhi.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmDanhSachSVXuatSac.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienDanToc.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienTonGiao.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.RPTruyXuatBangDiem.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCHocPhi.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCKetQuaXuLyHocTap.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCLopTinChi.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCQuanLyDiem.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCSinhVienXuatSac.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCThongKeTonGiao.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCThongTinChuongTrinh.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\httt\Desktop\Project Database\10_6\final\MaNguon\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPDanhSachSVXuatSac.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPCanhCaoSVHocTap.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPDanhSachHocBongPhanTram.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPDanhSachHocBong.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPDiemSinhVien.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPHocPhi.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPSinhVienDanToc.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPSinhVienTonGiao.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPDanhSachSVXuatSac.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPCanhCaoSVHocTap.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPDanhSachHocBongPhanTram.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPDanhSachHocBong.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPDiemSinhVien.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPHocPhi.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPSinhVienDanToc.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\RPSinhVienTonGiao.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\FlashControlV71.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Configuration.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Data.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Web.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Web.Services.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\office.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\bin\Debug\office.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmRPSVXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachCanhCaoHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmThemSVVaoLop.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmSettingCanhCaoHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.RPDanhSachHocPhi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmDanhSachSVXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienDanToc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienTonGiao.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.RPTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCHocPhi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCKetQuaXuLyHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCLopTinChi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCQuanLyDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCSinhVienXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCThongKeTonGiao.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCThongTinChuongTrinh.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPDanhSachSVXuatSac.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPCanhCaoSVHocTap.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPDanhSachHocBongPhanTram.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPDanhSachHocBong.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPDiemSinhVien.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPHocPhi.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPSinhVienDanToc.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPSinhVienTonGiao.rpt
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPDanhSachSVXuatSac.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPCanhCaoSVHocTap.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPDanhSachHocBongPhanTram.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPDanhSachHocBong.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPDiemSinhVien.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPHocPhi.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPSinhVienDanToc.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\RPSinhVienTonGiao.cs
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\QLSV1.pdb
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\FlashControlV71.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Configuration.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Data.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Deployment.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Drawing.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Web.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Web.Services.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Windows.Forms.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Xml.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\System.Xml.Linq.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\office.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\bin\Debug\office.xml
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.csprojResolveAssemblyReference.cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmRPSVXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachCanhCaoHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmThemSVVaoLop.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmSettingCanhCaoHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmDangNhap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.RPDanhSachHocPhi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmDanhSachSVXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienDanToc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmRPDanhSachSinhVienTonGiao.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.frmTrangChu.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.Properties.Resources.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.RPTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachKhoaVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachLopHoc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCDanhSachMonHoc.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCDoiMatKhau.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCGiayChungNhanSV.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCHocPhi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCHoSoSinhVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCKetQuaXuLyHocTap.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCLopTinChi.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCQuanLyDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCSinhVienXuatSac.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCTaoTaiKhoan.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCThongKeTonGiao.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCThongTinChuongTrinh.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCThongTinGiangVien.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCThongTinNguoiDung.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCTruyXuatBangDiem.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.UCXetHocBong.resources
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\QLSV1\obj\x86\Debug\QLSV1.csproj.GenerateResource.Cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\MaNguon_13_6_ver_FINAL\QLSV1\bin\Debug\QLSV1.exe.config
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\MaNguon_13_6_ver_FINAL\QLSV1\obj\x86\Debug\QLSV1.csproj.ResolveComReference.cache
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\MaNguon_13_6_ver_FINAL\QLSV1\obj\x86\Debug\QLSV1.exe
+C:\Users\ducmi\Downloads\Compressed\12_6_5\MaNguon_13_6_ver4\MaNguon_13_6_ver5\MaNguon_13_6_ver_FINAL\QLSV1\obj\x86\Debug\QLSV1.pdb
